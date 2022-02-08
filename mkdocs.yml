@@ -1,7 +1,7 @@
 # Project information
 site_name: "Fetih Toktaş Geometri Notları"
 site_author: 'Fetih Toktaş'
-site_url: 'https://ucoruh.github.io/ce100-algorithms-and-programming-II/'
+site_url: 'https://ucoruh.github.io/geometry-fetih-toktas/'
 site_description: >-
     Bu notlar, geometri ile ilgilenenlere başvuru kaynağı olması amacıyla düzenlenmiştir.
     Notlar, temel geometrinin bütün konularını kapsaması gözönünde tutularak hazırlanmış, eksik herhangi bir hususun kalmamasına dikkat edilmiştir. Konuların uzun uzun anlatılmaları yerine, kısaca açıklamalarının yapılması tercih edilmiştir. Teoremlerin kanıtların yapılmamış, sonuçların verilmesi yeterli görülmüştür.
@@ -11,7 +11,7 @@ site_description: >-
 
 # Repository
 repo_name: 'GitHub'
-repo_url: 'https://github.com/ucoruh/ce100-algorithms-and-programming-II'
+repo_url: 'https://github.com/ucoruh/geometry-fetih-toktas'
 edit_uri: ""
 
 # Copyright
