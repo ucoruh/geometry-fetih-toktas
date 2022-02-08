@@ -1,0 +1,239 @@
+# Project information
+site_name: "Fetih Toktaş Geometri Notları"
+site_author: 'Fetih Toktaş'
+site_url: 'https://ucoruh.github.io/ce100-algorithms-and-programming-II/'
+site_description: >-
+    Bu notlar, geometri ile ilgilenenlere başvuru kaynağı olması amacıyla düzenlenmiştir.
+    Notlar, temel geometrinin bütün konularını kapsaması gözönünde tutularak hazırlanmış, eksik herhangi bir hususun kalmamasına dikkat edilmiştir. Konuların uzun uzun anlatılmaları yerine, kısaca açıklamalarının yapılması tercih edilmiştir. Teoremlerin kanıtların yapılmamış, sonuçların verilmesi yeterli görülmüştür.
+    Problem çözmede yararlanılacak bir kaynak olması düşünüldüğünden, alıştırma ve problemlere yer verilmemiştir. Şekillerin konuyu en iyi anlatacak biçimde çizilmesine özen gösterilmiştir.
+    Bu notlar; el altında bulundurulması yararlı olan bir başvuru kaynağı, bir arşiv ve bir formüller kolleksiyonudur.
+    Elde olmayan nedenlerle yapılan yanlışlıklar için özür diler ve bu notların kullanalara yararlı olmasını temenni ederim. 
+
+# Repository
+repo_name: 'GitHub'
+repo_url: 'https://github.com/ucoruh/ce100-algorithms-and-programming-II'
+edit_uri: ""
+
+# Copyright
+copyright: Copyright &copy; 2022 Fetih Toktaş
+
+#theme:
+#    name: material
+#   logo: assets/images/favicon.png
+#   favicon: images/favicon.png
+#   palette:
+#       primary: teal
+#       accent: pink
+#   language: en
+#   feature:
+#       tabs: true
+#   font:
+#       text: Roboto
+        
+# Configuration
+theme:
+  name: material
+  custom_dir: docs/overrides/
+  #name: null
+  #custom_dir: !ENV [THEME_DIR, "material"]
+  
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+  
+  # Static files
+  static_templates:
+    - 404.html
+    
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  features:
+    - content.code.annotate
+    # - content.tabs.link
+    # - header.autohide
+    # - navigation.expand
+    - navigation.indexes
+    # - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    # - toc.integrate
+    
+  palette:
+    - scheme: default
+      primary: cyan
+      accent: cyan
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: orange
+      accent: orange
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  
+#  palette:
+#   - media: "(prefers-color-scheme: light)"
+#     scheme: default
+#     toggle:
+#       icon: material/toggle-switch-off-outline
+#       name: Switch to dark mode
+#   - media: "(prefers-color-scheme: dark)"
+#     scheme: slate
+#     toggle:
+#       icon: material/toggle-switch
+#       name: Switch to light mode
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: images/favicon.png
+  icon:
+    logo: logo
+    #logo: assets/images/favicon.png
+    
+# Customization
+extra:
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY_GEO
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >- 
+            Thanks for your feedback! Help us improve this page by
+            using our <a href="..." target=_blank>feedback form</a>.
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    cookies:
+      analytics: Google Analytics
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ucoruh
+    - icon: fontawesome/brands/bitbucket
+      link: https://bitbucket.org/ucoruh/
+    - icon: fontawesome/regular/compass
+      link: https://www.scopus.com/authid/detail.uri?authorId=57218950743
+    - icon: fontawesome/regular/id-card
+      link: https://dblp.org/pid/230/0394.html
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/u/ucoruh/
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/my-orcid?orcid=0000-0003-4193-8401
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ugurcoruh/
+    - icon: fontawesome/regular/moon
+      link: https://publons.com/researcher/1540204/ugur-coruh/
+    - icon: fontawesome/brands/google
+      link: https://scholar.google.com/citations?user=KIU4ltMAAAAJ&hl=tr
+    - icon: fontawesome/regular/clipboard
+      link: https://avesis.erdogan.edu.tr/ugur.coruh
+    - icon: fontawesome/regular/user-circle
+      link: https://www.ugurcoruh.com/
+      
+# Extensions
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+plugins:
+  - search
+  - git-revision-date-localized
+  - minify:
+      minify_html: false
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+# markdown_extensions:
+# - pymdownx.arithmatex:
+#     generic: true
+
+#   extra_javascript:
+# - javascripts/mathjax.js
+# - https://polyfill.io/v3/polyfill.min.js?features=es6
+# - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  
+# Page tree
+nav:
+  - Ana Sayfa: index.md
+  - Önsöz: preface/preface.md
+  - El Yazması: handwritten.md
+  - Bölümler:
+    - Bölüm-1 Geometrik Kavramlar: chapter-1/chapter-1.md
+    - Bölüm-2 Kırık Çizgiler, Dikme ve Eğikler: chapter-2/chapter-2.md
+    - Bölüm-3 Açılar: chapter-3/chapter-3.md
+    - Bölüm-4 Alan Fonksiyonu: chapter-4/chapter-4.md
+    - Bölüm-5 Üçgenler: chapter-5/chapter-5.md
+    - Bölüm-6 Çokgenler: chapter-6/chapter-6.md
+    - Bölüm-7 Dörtgenler: chapter-7/chapter-7.md
+    - Bölüm-8 Çember: chapter-8/chapter-8.md
+    - Bölüm-9 Geometrik Yerler: chapter-9/chapter-9.md
+    - Bölüm-10 Orantılı Doğru Parçaları: chapter-10/chapter-10.md
+    - Bölüm-11 Uzay Geometrisi: chapter-11/chapter-11.md
+    - Bölüm-12 Geometride İşaret Kullanılması: chapter-12/chapter-12.md
+    - Bölüm-13 Harmonik Bölme: chapter-13/chapter-13.md
+    - Bölüm-14 Homoteti: chapter-14/chapter-14.md
+    - Bölüm-15 Konikler: chapter-15/chapter-15.md
+  - Yararlanılan Kaynaklar: references/references.md
+  - Geometrik Çizimler: figures/figures.md
+  - Lisans: license.md
+  - Sürüm Geçmişi: changelog/index.md
+

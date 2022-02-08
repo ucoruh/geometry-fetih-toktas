@@ -1,0 +1,139 @@
+---
+marp: true
+theme: default
+style: |
+    img[alt~="center"] {
+      display: block;
+      margin: 0 auto;
+    }
+_class: lead
+paginate: true
+backgroundColor: #fff
+backgroundImage: url('https://marp.app/assets/hero-background.svg')
+header: 'Geometri Notları (Dörtgenler)'
+footer: '![height:50px](assets/favicon.png) Fetih TOKTAŞ / Geometri Notları - Bölüm-7'
+title: "Geometri Notları (Bölüm-7)"
+author: "Author: Fetih TOKTAŞ"
+date:
+subtitle: "Dörtgenler"
+geometry: "left=2.54cm,right=2.54cm,top=1.91cm,bottom=1.91cm"
+titlepage: true
+titlepage-color: "FFFFFF"
+titlepage-text-color: "000000"
+titlepage-rule-color: "CCCCCC"
+titlepage-rule-height: 4
+logo: "assets/favicon.png"
+logo-width: 100 
+page-background:
+page-background-opacity:
+links-as-notes: true
+lot: true
+lof: true
+listings-disable-line-numbers: true
+listings-no-page-break: false
+disable-header-and-footer: false
+header-left:
+header-center:
+header-right:
+footer-left: "© Fetih TOKTAŞ"
+footer-center: "License: WTFPL"
+footer-right:
+subparagraph: true
+lang: en-US 
+
+math: katex
+---
+
+<!-- _backgroundColor: aquq -->
+
+<!-- _color: orange -->
+
+<!-- paginate: false -->
+
+# BÖLÜM-7
+
+## Dörtgenler
+
+Download [DOC](chapter7.md_doc.pdf), [SLIDE](chapter7.md_slide.pdf), [PPTX](chapter7.md_slide.pptx)
+
+<iframe width=700, height=500 frameBorder=0 src="../chapter7.md_slide.html"></iframe>
+
+---
+
+<!-- paginate: true -->
+
+ - Tanımlar, Özellikler
+ - Paralelkenar
+ - Kare
+ - Dikdörtgen
+ - Eşkenar Dörtgen
+ - Deltoit
+ - Yamuk
+ - İkizkenar Yamuk
+ - Dik Yamuk
+ - Köşegenleri Birbirine Dik Olan Dörtgen
+ - Teğetler Dörtgeni
+ - Kirişler Dörtgeni
+ 
+---
+
+### Tanımlar, Özellikler
+
+//TODO
+
+---
+### Paralelkenar
+
+//TODO
+
+---
+### Kare
+
+//TODO
+
+---
+### Dikdörtgen
+
+//TODO
+
+---
+### Eşkenar Dörtgen
+
+//TODO
+
+---
+### Deltoit
+
+//TODO
+
+---
+### Yamuk
+
+//TODO
+
+---
+### İkizkenar Yamuk
+
+//TODO
+
+---
+### Dik Yamuk
+
+//TODO
+
+---
+### Köşegenleri Birbirine Dik Olan Dörtgen
+
+//TODO
+
+---
+### Teğetler Dörtgeni
+
+//TODO
+
+---
+### Kirişler Dörtgeni
+
+//TODO
+
+
