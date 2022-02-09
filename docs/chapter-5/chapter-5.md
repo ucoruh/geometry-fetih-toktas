@@ -54,9 +54,9 @@ math: katex
 
 ## Üçgenler
 
-Download [DOC](chapter5.md_doc.pdf), [SLIDE](chapter5.md_slide.pdf), [PPTX](chapter5.md_slide.pptx)
+Download [DOC](chapter-5.md_doc.pdf), [SLIDE](chapter-5.md_slide.pdf), [PPTX](chapter-5.md_slide.pptx)
 
-<iframe width=700, height=500 frameBorder=0 src="../chapter5.md_slide.html"></iframe>
+<iframe width=700, height=500 frameBorder=0 src="../chapter-5.md_slide.html"></iframe>
 
 ---
 

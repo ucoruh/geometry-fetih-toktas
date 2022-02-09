@@ -54,9 +54,9 @@ math: katex
 
 ## Açılar
 
-Download [DOC](chapter3.md_doc.pdf), [SLIDE](chapter3.md_slide.pdf), [PPTX](chapter3.md_slide.pptx)
+Download [DOC](chapter-3.md_doc.pdf), [SLIDE](chapter-3.md_slide.pdf), [PPTX](chapter-3.md_slide.pptx)
 
-<iframe width=700, height=500 frameBorder=0 src="../chapter3.md_slide.html"></iframe>
+<iframe width=700, height=500 frameBorder=0 src="../chapter-3.md_slide.html"></iframe>
 
 ---
 

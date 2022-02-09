@@ -54,9 +54,9 @@ math: katex
 
 ## Çember
 
-Download [DOC](chapter8.md_doc.pdf), [SLIDE](chapter8.md_slide.pdf), [PPTX](chapter8.md_slide.pptx)
+Download [DOC](chapter-8.md_doc.pdf), [SLIDE](chapter-8.md_slide.pdf), [PPTX](chapter-8.md_slide.pptx)
 
-<iframe width=700, height=500 frameBorder=0 src="../chapter8.md_slide.html"></iframe>
+<iframe width=700, height=500 frameBorder=0 src="../chapter-8.md_slide.html"></iframe>
 
 ---
 

@@ -54,9 +54,9 @@ math: katex
 
 ## Çokgenler
 
-Download [DOC](chapter6.md_doc.pdf), [SLIDE](chapter6.md_slide.pdf), [PPTX](chapter6.md_slide.pptx)
+Download [DOC](chapter-6.md_doc.pdf), [SLIDE](chapter-6.md_slide.pdf), [PPTX](chapter-6.md_slide.pptx)
 
-<iframe width=700, height=500 frameBorder=0 src="../chapter6.md_slide.html"></iframe>
+<iframe width=700, height=500 frameBorder=0 src="../chapter-6.md_slide.html"></iframe>
 
 ---
 

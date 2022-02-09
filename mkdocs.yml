@@ -232,8 +232,8 @@ nav:
     - Bölüm-13 Harmonik Bölme: chapter-13/chapter-13.md
     - Bölüm-14 Homoteti: chapter-14/chapter-14.md
     - Bölüm-15 Konikler: chapter-15/chapter-15.md
-  - Yararlanılan Kaynaklar: references/references.md
-  - Geometrik Çizimler: figures/figures.md
+  - Referanslar: references/references.md
+  - Çizimler: figures/figures.md
   - Lisans: license.md
-  - Sürüm Geçmişi: changelog/index.md
+  - Revizyon: changelog/index.md
 

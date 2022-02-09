@@ -54,9 +54,9 @@ math: katex
 
 ## Dörtgenler
 
-Download [DOC](chapter7.md_doc.pdf), [SLIDE](chapter7.md_slide.pdf), [PPTX](chapter7.md_slide.pptx)
+Download [DOC](chapter-7.md_doc.pdf), [SLIDE](chapter-7.md_slide.pdf), [PPTX](chapter-7.md_slide.pptx)
 
-<iframe width=700, height=500 frameBorder=0 src="../chapter7.md_slide.html"></iframe>
+<iframe width=700, height=500 frameBorder=0 src="../chapter-7.md_slide.html"></iframe>
 
 ---
 

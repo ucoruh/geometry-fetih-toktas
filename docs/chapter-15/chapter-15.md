@@ -54,9 +54,9 @@ math: katex
 
 ## Konikler
 
-Download [DOC](chapter15.md_doc.pdf), [SLIDE](chapter15.md_slide.pdf), [PPTX](chapter15.md_slide.pptx)
+Download [DOC](chapter-15.md_doc.pdf), [SLIDE](chapter-15.md_slide.pdf), [PPTX](chapter-15.md_slide.pptx)
 
-<iframe width=700, height=500 frameBorder=0 src="../chapter15.md_slide.html"></iframe>
+<iframe width=700, height=500 frameBorder=0 src="../chapter-15.md_slide.html"></iframe>
 
 ---
 

@@ -54,9 +54,9 @@ math: katex
 
 ## Geometride İşaret Kullanılması
 
-Download [DOC](chapter12.md_doc.pdf), [SLIDE](chapter12.md_slide.pdf), [PPTX](chapter12.md_slide.pptx)
+Download [DOC](chapter-12.md_doc.pdf), [SLIDE](chapter-12.md_slide.pdf), [PPTX](chapter-12.md_slide.pptx)
 
-<iframe width=700, height=500 frameBorder=0 src="../chapter12.md_slide.html"></iframe>
+<iframe width=700, height=500 frameBorder=0 src="../chapter-12.md_slide.html"></iframe>
 
 ---
 

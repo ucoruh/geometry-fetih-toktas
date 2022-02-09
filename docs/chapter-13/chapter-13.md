@@ -54,9 +54,9 @@ math: katex
 
 ## Harmonik Bölme
 
-Download [DOC](chapter13.md_doc.pdf), [SLIDE](chapter13.md_slide.pdf), [PPTX](chapter13.md_slide.pptx)
+Download [DOC](chapter-13.md_doc.pdf), [SLIDE](chapter-13.md_slide.pdf), [PPTX](chapter-13.md_slide.pptx)
 
-<iframe width=700, height=500 frameBorder=0 src="../chapter13.md_slide.html"></iframe>
+<iframe width=700, height=500 frameBorder=0 src="../chapter-13.md_slide.html"></iframe>
 
 ---
 

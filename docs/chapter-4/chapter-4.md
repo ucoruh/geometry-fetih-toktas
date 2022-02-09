@@ -54,9 +54,9 @@ math: katex
 
 ## Alan Fonksiyonu
 
-Download [DOC](chapter4.md_doc.pdf), [SLIDE](chapter4.md_slide.pdf), [PPTX](chapter4.md_slide.pptx)
+Download [DOC](chapter-4.md_doc.pdf), [SLIDE](chapter-4.md_slide.pdf), [PPTX](chapter-4.md_slide.pptx)
 
-<iframe width=700, height=500 frameBorder=0 src="../chapter4.md_slide.html"></iframe>
+<iframe width=700, height=500 frameBorder=0 src="../chapter-4.md_slide.html"></iframe>
 
 ---
 
